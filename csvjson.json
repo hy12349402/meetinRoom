@@ -1,0 +1,22 @@
+[
+  {
+    "Meeting-Room": "Room 1",
+    "In-Time": "9:00",
+    "Out-Time": "10:00"
+  },
+  {
+    "Meeting-Room": "Room 2",
+    "In-Time": "10:00",
+    "Out-Time": "11:00"
+  },
+  {
+    "Meeting-Room": "Room 3",
+    "In-Time": "12:00",
+    "Out-Time": "13:00"
+  },
+  {
+    "Meeting-Room": "Room 4",
+    "In-Time": "13:00",
+    "Out-Time": "14:00"
+  }
+]
